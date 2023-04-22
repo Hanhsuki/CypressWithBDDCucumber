@@ -1,0 +1,1 @@
+//setup cypress from 10.10.0 (npm install cypress --save-dev@10.10.0)
